@@ -1,0 +1,21 @@
+body{
+    background-color: #2d2c30;
+    text-align: center;
+}
+.mainheading{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    height: 500px;
+}
+h1, h2{
+    color: #e1daf5;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #e1daf5;
+}
