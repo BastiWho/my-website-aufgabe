@@ -1,12 +1,13 @@
 body{
     background-color: #2d2c30;
-    text-align: center;
 }
 .mainheading{
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
-img{
+.fleximg{
+    display: flex;
+    justify-content: center;
     height: 500px;
 }
 h1, h2{
